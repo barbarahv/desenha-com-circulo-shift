@@ -1,2 +1,3 @@
 # desenha-com-circulo-shift
-Desenha em um quadro com circulos de qualquer cor
+Desenhar em um quadro usando circulos de qualquer cor.
+Feito em JavaScript
